@@ -1,1 +1,2 @@
 # LucasGomesGitExer
+Modificando Readme.
